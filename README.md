@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @finnrmok
+- 👋 Hi, I’m @finnrmok (Finn Mokrzycki)
 - 👀 I’m interested in Data Science (Machine Learning and Deep Learning)
 - 🌱 I’m currently learning how to use cloud services for dealing with large amounts of data (eg. AWS)
 - 📫 Check out my LinkedIn for information on other activities unrelated to coding 
